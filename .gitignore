@@ -1,0 +1,13 @@
+.Rhistory
+.RData
+.Rproj.user/
+_targets/
+data/
+raw/
+processed/
+figures/
+validation/
+*.zip
+*.tif
+*.gpkg
+*.geojson
